@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Ibraheem\'s Profilr</string>
+    <string name="app_name">Ibraheem\'s Profile</string>
+    <string name="cdp">Change My Profile Image</string>
+
+    <string name="name">Ibraheem Uthman</string>
+    <string name="uni">UNIVERSITY: FUT, Minna</string>
+    <string name="dept">DEPARTMENT: Cyber Security Science</string>
 </resources>
